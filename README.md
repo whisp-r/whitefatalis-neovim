@@ -1,3 +1,5 @@
+# My custom neovim config for the host machine `whitefatalis`
+
 # AstroNvim Template
 
 **NOTE:** This is for AstroNvim v5+

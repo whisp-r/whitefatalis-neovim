@@ -1,4 +1,4 @@
-# My custom neovim config for the host machine `whitefatalis`
+# My neovim config
 
 # AstroNvim Template
 
